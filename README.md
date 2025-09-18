@@ -50,14 +50,14 @@ source: kaggle
 
 ## 📊 Dashboards  
 
-### 🔮 Churn Prediction Dashboard  
-<p align="center">
-  <img src="./Churn Prediction.PNG" alt="Churn Prediction Dashboard" width="700"/>
-</p>
-
 ### 📈 Churn Summary Dashboard  
 <p align="center">
   <img src="./Summary.PNG" alt="Churn Summary Dashboard" width="700"/>
+</p>
+
+### 🔮 Churn Prediction Dashboard  
+<p align="center">
+  <img src="./Churn Prediction.PNG" alt="Churn Prediction Dashboard" width="700"/>
 </p>
 
 ---
