@@ -46,12 +46,20 @@ This project applies **data analysis, SQL-based preprocessing, machine learning,
 
 source: kaggle
 
+---
+
 ## 📊 Dashboards  
 
 ### 🔮 Churn Prediction Dashboard  
-![Churn Prediction](./dashboards/Churn_Prediction.PNG)  
+<p align="center">
+  <img src="./Churn Prediction.PNG" alt="Churn Prediction Dashboard" width="700"/>
+</p>
 
 ### 📈 Churn Summary Dashboard  
-![Churn Summary](./dashboards/Summary.PNG)  
+<p align="center">
+  <img src="./Summary.PNG" alt="Churn Summary Dashboard" width="700"/>
+</p>
+
+---
 
 
