@@ -49,7 +49,7 @@ source: kaggle
 ## 📊 Dashboards  
 
 ### 🔮 Churn Prediction Dashboard  
-![Churn Prediction](./dashboards/Churn Prediction.PNG)  
+![Churn Prediction](./dashboards/Churn_Prediction.PNG)  
 
 ### 📈 Churn Summary Dashboard  
 ![Churn Summary](./dashboards/Summary.PNG)  
