@@ -49,9 +49,9 @@ source: kaggle
 ## 📊 Dashboards  
 
 ### 🔮 Churn Prediction Dashboard  
-![Churn Prediction Dashboard](./dashboards/Churn Prediction.PNG)  
+![Churn Prediction](./dashboards/Churn Prediction.PNG)  
 
 ### 📈 Churn Summary Dashboard  
-![Churn Summary Dashboard](./dashboards/Summary.PNG)  
+![Churn Summary](./dashboards/Summary.PNG)  
 
 
