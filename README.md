@@ -44,15 +44,6 @@ This project applies **data analysis, SQL-based preprocessing, machine learning,
 
 ---
 
-## 📂 Repository Structure  
-```bash
-├── prediction analysis.ipynb          # ML model & churn prediction
-├── churned_customers_predictions.csv  # Predicted churners dataset
-├── sql queries Backup.md              # SQL queries for data analysis & cleaning
-├── Churn Prediction.PNG               # Prediction dashboard
-├── Summary.PNG                        # Churn summary dashboard
-└── README.md                          # Project documentation
-## 📑 Dataset  
 source: kaggle
 
 ## 📊 Dashboards  
